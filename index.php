@@ -1,3 +1,4 @@
 <?
 echo "Welcome";
+//coment
 ?>
